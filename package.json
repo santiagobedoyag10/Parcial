@@ -9,8 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-firebase/app": "^21.13.0",
+    "@react-navigation/bottom-tabs": "^7.3.9",
+    "@react-navigation/native": "^7.1.5",
+    "@react-navigation/native-stack": "^7.3.9",
     "expo": "~52.0.43",
     "expo-status-bar": "~2.0.1",
+    "firebase": "^11.6.0",
     "react": "18.3.1",
     "react-native": "0.76.9"
   },
